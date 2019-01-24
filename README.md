@@ -1,2 +1,2 @@
 # Freecodecamp-Projects
-This folder will be contain all Projects I executed from FCC curriculum.
+This folder will be contain all Projects executed from FCC curriculum.
